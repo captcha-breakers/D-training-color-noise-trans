@@ -1,12 +1,12 @@
 # D-training-complex
 
 ## Dataset variables:
-### **text & background color**
-### **rotation**
-### **transformation**
-### **blur**
-### **noise**
-## **font**
+ - **text & background color**
+ - **rotation**
+ - **transformation**
+ - **blur**
+ - **noise**
+ - **font**
 
 ## Fonts used from: [Google fonts](https://fonts.google.com/)
 
